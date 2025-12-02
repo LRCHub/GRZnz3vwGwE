@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天ノ弱 -うぃんぐPiano Ver.-",
+  "base_artist": "Akie秋絵",
+  "createdAt": "2025-12-02T22:19:36.879631Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天ノ弱 -うぃんぐPiano Ver.-",
+      "artist": "Akie秋絵",
+      "has_synced": false,
+      "path": "select/pl_01_天ノ弱_-うぃんぐPiano_Ver.-_Akie秋絵.txt"
+    }
+  ]
+}
